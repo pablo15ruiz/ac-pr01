@@ -1,0 +1,23 @@
+APARTAT C
+- eliminar valors nuls de les dades
+- Histogrames de cada una de les característiques
+- Matriu de correlacions de les característiques
+- pairplot
+- veure quin es el nostre atribut objectiu a analitzar i perquè
+- respondre preguntes APARTAT C
+"""Relationship beetween variables."""
+
+APARTAT B
+- Fer models regressors per a cada atribut
+- Calcular el mse per a cada models
+- Comparar resultats i buscar el més petit
+- Normalitzar atributs
+- Calculem la mitjana i la variança i mirem si són Gaussianes (descartar les que no)
+- Tornem a calcular el mse i mirem la diferència
+- Decidir l'atribut que utilitzarem i justificar-ho a la memòria amb explicació i gràfics
+- Dibuixar el nostre regressor lineal amb l'atribut escollit
+- Fer una taula amb valor predit i valor real, comentar-ho
+- Respondre les preguntes de l'apartat B
+
+
+APARTAT A
