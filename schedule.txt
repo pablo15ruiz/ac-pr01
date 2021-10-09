@@ -1,10 +1,14 @@
 APARTAT C
-- eliminar valors nuls de les dades
+- eliminar valors nuls de les dades (donar el valor de la mitja als NaN)
+- L'atribut de Population té molts valors nuls, podriem pensar que té importancia en el nostre estudi si
+pensem en l'atribut objectiu com a Life Expectancy, però mirant la correlació veiem que clarament és molt baixa.
+-Schooling és una gaussiana, la mitja i la mediana són similars i la desviació estàndar està entre el 20% i el 30% de la mitja
 - Histogrames de cada una de les característiques
 - Matriu de correlacions de les característiques
 - pairplot
 - veure quin es el nostre atribut objectiu a analitzar i perquè
 - respondre preguntes APARTAT C
+- Gaussianes: Polio, Schooling per  (mediana y media similar y desv.std entre el 20 y 30% de le media)
 """Relationship beetween variables."""
 
 APARTAT B
