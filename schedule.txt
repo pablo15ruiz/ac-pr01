@@ -25,3 +25,4 @@ APARTAT B
 
 
 APARTAT A
+-Fer el descens de gradient utilitzant l2 regularitzation
